@@ -202,7 +202,7 @@
   }
   
   body {
-    background-image: url('/images/bdc.jpg'); /* Change path as needed */
+    background-image: url('bdc.jpg'); /* Make sure this file is in the same folder as your HTML or CSS */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
